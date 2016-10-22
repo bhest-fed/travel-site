@@ -1,3 +1,4 @@
+/*---| Site Button Styles |----*/
 .btn {
   background-color: $mainBlue;
   color: #FFF;
@@ -18,3 +19,5 @@
   }
 
 }
+
+/*---| End Site Button Styles |----*/
